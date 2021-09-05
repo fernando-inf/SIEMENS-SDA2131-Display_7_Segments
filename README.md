@@ -8,7 +8,7 @@ shiftOut is currently written to output 1 byte (8 bits) so it requires a two ste
   shiftOut(DATA, CLOCK, MSBFIRST, numLeft[x]);
   digitalWrite(ENABLE, LOW);
 ```
-For more view:
+For more information:
 
 https://www.arduino.cc/reference/es/language/functions/advanced-io/shiftout/
 
